@@ -3,5 +3,5 @@ First Run
 - php artisan storage:link
 
 Login
-email : jihad.abd2011@yahoo.com
-pass : 123qwe
+> email : jihad.abd2011@yahoo.com
+> pass : 123qwe
